@@ -1,0 +1,26 @@
+# Arduino Build-Dateien
+build/
+.pio/
+*.bin
+*.elf
+*.map
+*.hex
+
+# Editor und Betriebssystem
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Zugangsdaten und lokale Konfiguration
+.env
+.env.*
+secrets.h
+credentials.h
+
+# Python (NAS-API)
+__pycache__/
+*.pyc
+.venv/

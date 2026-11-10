@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "name": "Mein Nerd-Wave Skin",
+  "display": "GC9A01",
+  "width": 240,
+  "height": 240,
+  "colors": {
+    "background": "#000000",
+    "text": "#FFFFFF",
+    "accent": "#00FFFF",
+    "secondary": "#FFFF00",
+    "selection": "#183866",
+    "dimAccent": "#006A88",
+    "dimSecondary": "#806800"
+  },
+  "layout": {
+    "sourceY": 27,
+    "iconsY": 68,
+    "titleY": 120,
+    "timeY": 145,
+    "stateY": 178,
+    "sourceX": 120,
+    "iconsX": 120,
+    "titleX": 120,
+    "timeX": 120,
+    "stateX": 120,
+    "sourceFont": 1,
+    "titleFont": 0,
+    "timeFont": 2,
+    "stateFont": 1
+  }
+}
